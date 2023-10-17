@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Hejsan");
 
-        //Så gott det är med pizza
+        //SÅ gött det är med pannkakor
 
         //Fast idag blir det nog tacos
     }
