@@ -8,8 +8,8 @@ public class Main {
         //SÅ GÖÖÖÖÖÖÖÖÖÖÖÖTT det är med pannkakor
 
 
-        //Fast idag blir det nog tacos
-        //Och då ska jag äta gott
+        //Fast idag blir det nog sushi
+        //Och då ska jag äta gott och massa sushi ska vi äta
     }
 }
 
