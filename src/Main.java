@@ -10,6 +10,8 @@ public class Main {
 
         //Fast idag blir det nog sushi
         //Och då ska jag äta gott och massa sushi ska vi äta
+
+        //Och till efterrätt blir det pannkakor med glass 
     }
 }
 
