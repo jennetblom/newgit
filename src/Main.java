@@ -7,7 +7,7 @@ public class Main {
 
         //Så gott det är med pizza
 
-        //Fast idag blir det nog pannkaka
+        //Fast idag blir det nog sushi
     }
 }
 
